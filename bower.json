@@ -1,0 +1,24 @@
+{
+  "name": "play",
+  "version": "0.0.0",
+  "authors": [
+    "McFog Wang <mcfogw@gmail.com>"
+  ],
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/frontend/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1",
+    "marked": "~0.3.3",
+    "github-markdown-css": "~2.0.8",
+    "json-editor": "~0.7.17",
+    "md5-jkmyers": "~0.0.1"
+  }
+}
